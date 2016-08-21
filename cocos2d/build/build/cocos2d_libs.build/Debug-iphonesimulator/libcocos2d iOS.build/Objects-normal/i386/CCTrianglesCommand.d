@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/cocos/renderer/CCTrianglesCommand.cpp \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/renderer/CCTrianglesCommand.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/renderer/CCRenderCommand.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/base/ccTypes.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/CCGeometry.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/base/ccMacros.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/base/CCConsole.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/platform/CCStdC.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/platform/ios/CCStdC-ios.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/base/ccRandom.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/CCMath.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/Vec2.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/CCMathBase.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/Vec2.inl \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/Vec3.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/Vec3.inl \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/Mat4.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/Vec4.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/Vec4.inl \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/Mat4.inl \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/Quaternion.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/math/Quaternion.inl \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/platform/CCGL.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/platform/ios/CCGL-ios.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/renderer/CCGLProgramState.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/base/CCVector.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/renderer/ccGLStateCache.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/renderer/CCGLProgram.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../external/xxhash/xxhash.h \
+  /Users/TakuKobayashi/workspace/cocos_workspace/ExtraCocos/cocos2d/build/../cocos/renderer/CCRenderer.h
